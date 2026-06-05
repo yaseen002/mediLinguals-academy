@@ -1,4 +1,4 @@
-# MediLinguals Academy
+# MediLinguals Academy.
 
 ## Project Overview
 MediLinguals Academy is an ERP-like e-learning platform designed to integrate the management of learning, user activities, and administrative workflows.  

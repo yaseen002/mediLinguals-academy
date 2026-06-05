@@ -47,7 +47,7 @@ The system was developed using **Python**, **Flask**, and **PostgreSQL**, and de
    - Built-in reporting tools provide insights into learning activities and organizational metrics.  
 
 5. **Scalability & Security**  
-   - The application leverages GCP services for load balancing, real-time data updates, and continuous availability.  
+   - The application leverages GCP (Google Cloud Platform) services for load balancing, real-time data updates, and continuous availability.  
    - Data is securely transmitted and stored with encryption mechanisms.  
 
 ---
